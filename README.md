@@ -19,12 +19,6 @@ DANet consists of three main components:
 2. **Augmentation Module**: Uses a **softmax-weighted** mechanism to refine retrieved patterns.
 3. **Generation Module**: Employs feed-forward layers to generate accurate time series predictions.
 
-<p align="center">
-  <a href="https://buymeacoffee.com/fernandezowen" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150">
-  </a>
-</p>
-
 ## Installation
 
 To use DANet, install the required dependencies:
@@ -67,28 +61,3 @@ DANet significantly outperforms six state-of-the-art models:
 | Traffic | DANet | **0.184** | **0.167** |
 | Weather | DANet | **0.405** | **0.493** |
 
-For full benchmark results, please refer to our paper.
-
-## Citation
-
-If you find this work useful, please cite:
-
-```
-@article{DANet2025,
-  author    = {Your Name and Others},
-  title     = {DANet: A RAG-inspired Dual Attention Model for Few-shot Time Series Prediction},
-  journal   = {Under review at UAI 2025},
-  year      = {2025}
-}
-```
-
-## Support
-
-If you like this project, consider **supporting us** by buying a coffee! ☕  
-Click the button below:
-
-<p align="center">
-  <a href="https://buymeacoffee.com/fernandezowen" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150">
-  </a>
-</p>
